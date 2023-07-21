@@ -1,5 +1,6 @@
+[![Discord Presence](https://lanyard.kyrie25.me/api/503222991551987713)](https://discord.com/users/503222991551987713)
 # 💫 About Me:
-ı'm currently working on html and css<br>How to reach me guleryuzerdem7@gmail.com<br> Fun fact ım albanian
+<br>How to reach me guleryuzerdem7@gmail.com<br> Fun fact ım albanian
 
 
 ## 🌐 Socials:
