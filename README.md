@@ -1,5 +1,5 @@
 [![Discord Presence](https://lanyard.kyrie25.me/api/503222991551987713)](https://discord.com/users/503222991551987713)
-<div class="tenor-gif-embed" data-postid="21599707" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707">Coding Typing GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 # 💫 About Me:
 🌟 I am 15 years old, and I've been interested in programming for about 1-2 years. This interest has opened up a new world for me, and I am exploring this world with confidence. 💻😊<br>💬Feel free to ask me about Python, JavaScript, HTML, and CSS! 🐍🌐🎨📝<br>📫You can reach me at guleryuzerdem7@gmail.com. 📧😊<br>⚡Fun fact: I'm Albanian! 😄
