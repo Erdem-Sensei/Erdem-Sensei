@@ -1,5 +1,6 @@
 [![Discord Presence](https://lanyard.kyrie25.me/api/503222991551987713)](https://discord.com/users/503222991551987713)
 ![opening-pc](https://github.com/Erdem-Sensei/Erdem-Sensei/assets/86631467/a2aa94c7-49e6-49c6-ba46-7f5f05bfbdbc)
+![Uploading coding-typing.gif…]()
 
 
 # 💫 About Me:
