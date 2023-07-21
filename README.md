@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.kyrie25.me/api/503222991551987713)](https://discord.com/users/503222991551987713)
 # 💫 About Me:
-<br>How to reach me guleryuzerdem7@gmail.com<br> Fun fact ım albanian
+Im Erdem, I am 15 years old. I have been interested in programming for about 1-2 years. This interest has opened up a new world for me, and I am exploring this world with confidence.<br>How to reach me guleryuzerdem7@gmail.com<br> Fun fact Im Albanian
 
 
 ## 🌐 Socials:
