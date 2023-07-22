@@ -1,5 +1,5 @@
-[![Discord Presence](https://lanyard.kyrie25.me/api/503222991551987713)](https://discord.com/users/503222991551987713)
-![coding-typing](https://github.com/Erdem-Sensei/Erdem-Sensei/assets/86631467/1ab4f2c3-fa59-4bc6-b914-3e78b9fc05ac)
+<img align="right" alt="Coding" width="400" src="https://github.com/Erdem-Sensei/Erdem-Sensei/assets/86631467/1ab4f2c3-fa59-4bc6-b914-3e78b9fc05ac">
+<img align="" alt="Coding"  src="https://lanyard.kyrie25.me/api/503222991551987713">
 
 
 # 💫 About Me:
