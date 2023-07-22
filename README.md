@@ -2,6 +2,9 @@
 
 
 
+
+
+
 # 💫 About Me:
 🌟 I am 15 years old, and I've been interested in programming for about 1-2 years. This interest has opened up a new world for me, and I am exploring this world with confidence. 💻😊<br>💬Feel free to ask me about Python, JavaScript, HTML, and CSS! 🐍🌐🎨📝<br>📫You can reach me at guleryuzerdem7@gmail.com. 📧😊<br>⚡Fun fact: I'm Albanian! 😄
 
