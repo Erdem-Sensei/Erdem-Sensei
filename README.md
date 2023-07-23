@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Erdem-Sensei/Erdem-Sensei/assets/86631467/1ab4f2c3-fa59-4bc6-b914-3e78b9fc05ac">
 <img align="" alt="Coding"  src="https://lanyard.kyrie25.me/api/503222991551987713">
-sa
+
 
 # 💫 About Me:
 🌟 I am 15 years old, and I've been interested in programming for about 1-2 years. This interest has opened up a new world for me, and I am exploring this world with confidence. 💻😊<br>💬Feel free to ask me about Python, JavaScript, HTML, and CSS! 🐍🌐🎨📝<br>📫You can reach me at guleryuzerdem7@gmail.com. 📧😊<br>⚡Fun fact: I'm Albanian! 😄
