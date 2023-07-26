@@ -3,8 +3,7 @@
 
 
 # 💫 About Me:
-🌟 I am 15 years old, and I've been interested in programming for about 1-2 years. This interest has opened up a new world for me, and I am exploring this world with confidence. 💻😊<br>💬Feel free to ask me about Python, JavaScript, HTML, and CSS! 🐍🌐🎨📝<br>📫You can reach me at guleryuzerdem7@gmail.com. 📧😊<br>⚡Fun fact: I'm Albanian! 😄
-
+🌟 I am 15 years old, and I've been interested in programming for about 1-2 years. This interest has opened up a new world for me, and I am exploring this world with confidence. 💻😊<br>💬Feel free to ask me about Python, JavaScript, HTML, and CSS! 🐍🌐🎨📝<br>📫You can reach me at guleryuzerdem7@gmail.com. 📧😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erdem._.o) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kankusanitachi) 
